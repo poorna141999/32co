@@ -1,0 +1,38 @@
+{
+	"iprImages": [
+		{
+			"type": "image/png",
+			"url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/ipr/4400d5b2-72aa-4048-8645-9f5571862578-AutoAPI_pwHX%20AutoAPI_sNaQ-0.png",
+			"filename": "ipr",
+			"name": "AutoAPI_pwHX AutoAPI_sNaQ-0.png"
+		}
+	],
+	"arches": "Dual Arch - upper / lower",
+	"totalSteps": 14,
+	"havingAttachment": true,
+	"attachmentStages": [
+		"Stage 1"
+	],
+	"upperStageNumber": 14,
+	"lowerStageNumber": 2,
+	"havingIpr": true,
+	"iprStages": [
+		"Stage 0",
+		"Stage 2"
+	],
+	"havingElastic": true,
+	"elastics": [
+		"Triangle elastics"
+	],
+	"toothAnimationUrl": "https://webview.32-stories.com/?mlink=https://32s-prod-ftp.s3.eu-west-2.amazonaws.com/data/Client4070/Yi%20Lin%20Tan_18~612~621/221E675B4F8D4618BC6CA9BDD1523389.iiwgl&fg=ccc&bg=000&p=SEBWHS",
+	"auxiliaryDetail": "Testing",
+	"comment": "Test",
+	"additionalAttachments": [],
+	"toothMovementTableImage": {
+		"url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/tmImages/8caf66d6-a926-4aa8-8761-33552bdbc9be-AutoAPI_pwHX%20AutoAPI_sNaQ.png",
+		"filename": "tmImages",
+		"name": "AutoAPI_pwHX AutoAPI_sNaQ.png",
+		"type": "image/png"
+	},
+	"submission": ""
+}

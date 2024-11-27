@@ -1,0 +1,32 @@
+{
+	"personalNote": "Hi This is as part of API Testing",
+	"recordsAdvice": "The extra oral",
+	"outcomes": "Comprehensive",
+	"complexity": "Moderate",
+	"diagnosisAndProblemList": "OH Good",
+	"estimatedTreatmentRange": "3",
+	"aimsOfTreatmentAndSummary": "Test",
+	"alternativeTreatmentPlan": "Test",
+	"lookoutForPatientRadiograph": "Appropriate radiographic examination will complement your clinical findings and confirm that your patient is dentally fit, specifically, you must ensure there is optimal root form, alveolar bone levels, and excluding any evidence of unerupted teeth (e.g. supernumeraries) or otherwise pathology which may impact orthodontic treatment",
+	"specificToPatientRadiograph": "Test",
+	"submissionCallOut": {
+		"positive": "Test",
+		"problematic": "Auto",
+		"potentialBlocker": "API"
+	},
+	"attachmentPlan": "Auto",
+	"iprPlan": "API",
+	"elasticType": "Other",
+	"elasticWearSchedule": "Test",
+	"recommendedButtons": "Test",
+	"otherAuxillaries": "Other",
+	"consent": "Consent",
+	"touchPoints": "recommondations",
+	"suggestedWearSchedule": "Schedule",
+	"refinementAdvice": "Final Advice",
+	"restorative": "Restoractive advice",
+	"retentionAdvice": "advice",
+	"treatmentDesign": "",
+	"submission": "",
+	"status": "SUBMITTED"
+}

@@ -1,0 +1,39 @@
+{
+	"name": "Auto One Refinement",
+	"country": "IN",
+	"planPrice": {
+		"pricePerAligner": 45,
+		"packagingFee": 5,
+		"shippingFee": 4,
+		"template": 6,
+		"passiveAligner": 25,
+		"retainer": 12,
+		"fee32Co": 5,
+		"maxDeliveryDays": 6
+	},
+	"refinementPrice": {
+		"pricePerAligner": 23,
+		"packagingFee": 5,
+		"shippingFee": 4,
+		"template": 3,
+		"passiveAligner": 31,
+		"retainer": 12,
+		"fee32Co": 4,
+		"maxDeliveryDays": 4
+	},
+	"description": "Auto One Refinement Description",
+	"materialType": "Scheu Duran",
+	"finishOptions": [
+		"Scalloped",
+		"Straight"
+	],
+	"default": false,
+	"refinementsIncluded": true,
+	"numberOfRefinementsIncluded": 1,
+	"refinementDiscountFactor": [
+		{
+			"value": 50
+		}
+	],
+	"manufacturer": "64591a657f8f83181f2b6329"
+}

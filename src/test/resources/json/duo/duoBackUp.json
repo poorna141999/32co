@@ -1,0 +1,267 @@
+{
+  "submissionStatus": "SUBMITTED",
+  "status": "SUBMITTED",
+  "serviceType": "DUO",
+  "activeStep": 0,
+  "planType": "INITIAL",
+  "patientDetail": {
+    "firstName": "test",
+    "lastName": "test",
+    "dob": "2023-02-12T12:51:10.827Z",
+    "email": "auto32co@gmail.com",
+    "phone": "+919876541230"
+  },
+  "practice": "Automation",
+  "priorExtensiveGeneralDentalTreatment": "No",
+  "priorOrthodontics": "No",
+  "priorFacialAesthetics": "Yes",
+  "relevantMedicalSocialAndDrugHistory": "test",
+  "patientOccupation": "test",
+  "otherModifyingFactors": "test",
+  "dietaryFactors": "testing",
+  "priorFacialAestheticsDetails": "test",
+  "diagnosis": {
+    "arches": "63e4c8e62ae75981ad05460b",
+    "upperDentalCenterLineOfFace": "63e4c8e72ae75981ad054614",
+    "phasingPreference": "63e4c8e62ae75981ad054611"
+  },
+  "patientMotivationAndConcern": "test",
+  "statedTimings": "2023-02-19T12:54:53.071Z",
+  "statedTimingsNotes": "details",
+  "widerTreatmentPlan": [
+    "63e4c8ed2ae75981ad054648"
+  ],
+  "widerTreatmentPlanDetails": "test",
+  "patientSuitability": "Yes",
+  "dentalHealthStatus": "63e4c8e52ae75981ad054608",
+  "oralHygiene": "63e4c8e92ae75981ad054625",
+  "BPE": "BPEtestu",
+  "gingivalBiotype": "63e4c8e72ae75981ad054617",
+  "toothSurfaceLoss": "63e4c8ec2ae75981ad054646",
+  "TMJ": "No",
+  "paraFuctionalActivity": "Yes",
+  "bruxer": "Yes",
+  "oralHealthPathology": "testi",
+  "radiographQuery": "No",
+  "skeletalPatternAntero": "63e4c8eb2ae75981ad054636",
+  "skeletalPatternVertical": "63e4c8ec2ae75981ad054642",
+  "skeletalPatternTransverse": "63e4c8eb2ae75981ad05463c",
+  "crowdingInUpperArch": "63e4c8e52ae75981ad054603",
+  "crowdingInLowerArch": "63e4c8e42ae75981ad0545ff",
+  "incisorRelationship": [
+    "1.6",
+    "4.1"
+  ],
+  "overjetIncisorRelationship": "63e4c8e92ae75981ad05462b",
+  "overjetInMM": {
+    "lower": 1,
+    "upper": -1
+  },
+  "overjetOverbiteOrAnterior": "63e4c8ea2ae75981ad05462e",
+  "lowerDentalCenterLineOfFace": "63e4c8e82ae75981ad05461c",
+  "molarRelations": "63e4c8e82ae75981ad05461f",
+  "crossBite": [
+    "1.4",
+    "3.1"
+  ],
+  "dentistPerspectiveOne": "test",
+  "dentistPerspectiveTwo": "tes",
+  "dentistPerspectiveThree": "tes",
+  "comprehensiveCompromisedOutcomes": "test",
+  "patientAcceptableInterventions": {
+    "IPR": "No",
+    "attachments": "63e4c8ea2ae75981ad054633",
+    "auxiliaries": "No"
+  },
+  "extraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-25",
+      "lastModified": 1676269177784,
+      "lastModifiedDate": "2023-02-13T06:19:37.784Z",
+      "name": "Alpha Forgot Password issue.png",
+      "size": 190162,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-25"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/0472dc66-4581-4a97-907c-a13881a7517e-Alpha%20Forgot%20Password%20issue.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/0472dc66-4581-4a97-907c-a13881a7517e-Alpha%20Forgot%20Password%20issue.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-26",
+      "lastModified": 1676269720726,
+      "lastModifiedDate": "2023-02-13T06:28:40.726Z",
+      "name": "Denitst profile information.png",
+      "size": 93059,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-26"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/c2f73112-f461-4cbc-ab6a-7705d146ebe8-Denitst%20profile%20information.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/c2f73112-f461-4cbc-ab6a-7705d146ebe8-Denitst%20profile%20information.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-27",
+      "lastModified": 1676269758164,
+      "lastModifiedDate": "2023-02-13T06:29:18.164Z",
+      "name": "Dentist Profile dashboard.png",
+      "size": 186938,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-27"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/713e42db-a006-4ec6-b95f-28626a74e7a2-Dentist%20Profile%20dashboard.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/713e42db-a006-4ec6-b95f-28626a74e7a2-Dentist%20Profile%20dashboard.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-28",
+      "lastModified": 1675138340765,
+      "lastModifiedDate": "2023-01-31T04:12:20.765Z",
+      "name": "Dentist Register Error.png",
+      "size": 194000,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-28"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/e6de31bb-31e2-48e4-b094-80846178214d-Dentist%20Register%20Error.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/e6de31bb-31e2-48e4-b094-80846178214d-Dentist%20Register%20Error.png"
+    }
+  ],
+  "intraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-30",
+      "lastModified": 1676269177784,
+      "lastModifiedDate": "2023-02-13T06:19:37.784Z",
+      "name": "Alpha Forgot Password issue.png",
+      "size": 190162,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-30"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/06a7022f-b58d-4747-8d17-af4bc928c8b7-Alpha%20Forgot%20Password%20issue.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/06a7022f-b58d-4747-8d17-af4bc928c8b7-Alpha%20Forgot%20Password%20issue.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-31",
+      "lastModified": 1676269720726,
+      "lastModifiedDate": "2023-02-13T06:28:40.726Z",
+      "name": "Denitst profile information.png",
+      "size": 93059,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-31"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/d4d50cab-20af-4ae2-977c-394c7f92b064-Denitst%20profile%20information.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/d4d50cab-20af-4ae2-977c-394c7f92b064-Denitst%20profile%20information.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-32",
+      "lastModified": 1676269758164,
+      "lastModifiedDate": "2023-02-13T06:29:18.164Z",
+      "name": "Dentist Profile dashboard.png",
+      "size": 186938,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-32"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/b469ec70-f35c-434e-a2b6-784991e407f1-Dentist%20Profile%20dashboard.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/b469ec70-f35c-434e-a2b6-784991e407f1-Dentist%20Profile%20dashboard.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-33",
+      "lastModified": 1675138340765,
+      "lastModifiedDate": "2023-01-31T04:12:20.765Z",
+      "name": "Dentist Register Error.png",
+      "size": 194000,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-33"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/b9108a78-1419-4ad8-94d3-530c933afe50-Dentist%20Register%20Error.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/b9108a78-1419-4ad8-94d3-530c933afe50-Dentist%20Register%20Error.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-34",
+      "lastModified": 1674106568516,
+      "lastModifiedDate": "2023-01-19T05:36:08.516Z",
+      "name": "Email Inbox.png",
+      "size": 196905,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-34"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/e94e3377-ad1d-4034-8a93-e7b162e38fc3-Email%20Inbox.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/e94e3377-ad1d-4034-8a93-e7b162e38fc3-Email%20Inbox.png"
+    }
+  ],
+  "radioGraphImgs": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1676810539187-36",
+      "lastModified": 1676607844822,
+      "lastModifiedDate": "2023-02-17T04:24:04.822Z",
+      "name": "New Registered dentist Education content .png",
+      "size": 234379,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1676810539187-36"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/25bc065e-f76d-4a30-bb14-107abe7c286c-New%20Registered%20dentist%20Education%20content%20.png",
+        "filename": "radioGraphImgs"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/25bc065e-f76d-4a30-bb14-107abe7c286c-New%20Registered%20dentist%20Education%20content%20.png"
+    }
+  ],
+  "impressionType": "63e4c8ee2ae75981ad05467a",
+  "imprImages": [],
+  "anonymisedInfo": "Yes",
+  "postageDate": "2023-02-21T13:54:18.650Z",
+  "submissionPercentage": 100
+}

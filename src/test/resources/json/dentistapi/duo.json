@@ -1,0 +1,247 @@
+{
+  "status": "SUBMITTED",
+  "serviceType": "DUO",
+  "activeStep": 0,
+  "planType": "INITIAL",
+  "patientDetail": {
+    "firstName": "AutoTest",
+    "lastName": "AutoLast",
+    "dob": "1986-05-08T17:29:19.500Z",
+    "profilePic": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/5e936365-4ada-4dd1-8f90-2e72f54f6f8a-extra3.png"
+  },
+  "practice": "643a787ce7b09c6938f50e21",
+  "patientOccupation": "Testing",
+  "patientSuitability": true,
+  "BPE": "12345678",
+  "gingivalBiotype": "Thin",
+  "toothSurfaceLoss": "Moderate",
+  "TMJ": false,
+  "paraFuctionalActivity": false,
+  "oralHealthPathology": "Testing",
+  "relevantMedicalSocialAndDrugHistory": "Test",
+  "priorOrthodontics": false,
+  "crownsOrVeneers": [
+    "4.2"
+  ],
+  "radiographQuery": false,
+  "orthodonticAssessmentNow": false,
+  "diagnosis": {
+    "arches": "Dual (upper and lower)",
+    "phasingPreference": "Fitting, IPR, attachments and auxiliaries at step 0 (or fitting) when possible"
+  },
+  "specialistPrioritiseDetail": "Anterior Alignment only where possible",
+  "widerTreatmentPlan": [
+    "Whitening",
+    "Restorative work - composite veneers"
+  ],
+  "statedTimings": "2023-05-10T17:31:09.119Z",
+  "statedTimingsNotes": "Testing",
+  "patientAcceptableInterventions": {
+    "IPR": true,
+    "attachments": "Yes, if required",
+    "auxiliaries": false,
+    "extraction": false
+  },
+  "goodOutComes": "Test Automation",
+  "specialistDePrioritiseDetail": "Automation Testing description",
+  "extraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-9",
+      "lastModified": 1678086351412,
+      "lastModifiedDate": "2023-03-06T07:05:51.412Z",
+      "name": "extra1.png",
+      "size": 77511,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-9"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/0b38fde8-9bc6-48ff-8d2c-73405ba7a5a1-extra1.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/0b38fde8-9bc6-48ff-8d2c-73405ba7a5a1-extra1.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-10",
+      "lastModified": 1678086363961,
+      "lastModifiedDate": "2023-03-06T07:06:03.961Z",
+      "name": "extra2.png",
+      "size": 79031,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-10"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/07640db0-27af-44cb-bb08-aea7d1e75fe2-extra2.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/07640db0-27af-44cb-bb08-aea7d1e75fe2-extra2.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-11",
+      "lastModified": 1678086376258,
+      "lastModifiedDate": "2023-03-06T07:06:16.258Z",
+      "name": "extra3.png",
+      "size": 61358,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-11"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/5e936365-4ada-4dd1-8f90-2e72f54f6f8a-extra3.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/5e936365-4ada-4dd1-8f90-2e72f54f6f8a-extra3.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-12",
+      "lastModified": 1678086388713,
+      "lastModifiedDate": "2023-03-06T07:06:28.713Z",
+      "name": "extra4.png",
+      "size": 66309,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-12"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/eee73187-384a-49c7-8074-4bf732ed65fd-extra4.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/eee73187-384a-49c7-8074-4bf732ed65fd-extra4.png"
+    }
+  ],
+  "intraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-14",
+      "lastModified": 1678086253033,
+      "lastModifiedDate": "2023-03-06T07:04:13.033Z",
+      "name": "intra1.png",
+      "size": 112128,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-14"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/34045119-078a-4187-a742-0db076271d32-intra1.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/34045119-078a-4187-a742-0db076271d32-intra1.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-15",
+      "lastModified": 1678086265938,
+      "lastModifiedDate": "2023-03-06T07:04:25.938Z",
+      "name": "intra2.png",
+      "size": 116236,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-15"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/e9dcb96a-d5e4-482c-886f-9b0a09e3d8a8-intra2.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/e9dcb96a-d5e4-482c-886f-9b0a09e3d8a8-intra2.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-16",
+      "lastModified": 1678086279914,
+      "lastModifiedDate": "2023-03-06T07:04:39.914Z",
+      "name": "intra3.png",
+      "size": 113931,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-16"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/6f3538a6-3e1f-4d80-a713-2a05cee997ad-intra3.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/6f3538a6-3e1f-4d80-a713-2a05cee997ad-intra3.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-17",
+      "lastModified": 1678086291444,
+      "lastModifiedDate": "2023-03-06T07:04:51.444Z",
+      "name": "intra4.png",
+      "size": 143105,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-17"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/8ed4b32c-b413-4789-8a75-d01b9bd63f30-intra4.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/8ed4b32c-b413-4789-8a75-d01b9bd63f30-intra4.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1683912529789-18",
+      "lastModified": 1678086303183,
+      "lastModifiedDate": "2023-03-06T07:05:03.183Z",
+      "name": "intra5.png",
+      "size": 161186,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-18"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/ef265790-4838-48c1-ad89-1e2a6fe4fda9-intra5.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/ef265790-4838-48c1-ad89-1e2a6fe4fda9-intra5.png"
+    }
+  ],
+  "radioGraphImgs": [
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1683912529789-22",
+      "lastModified": 1676278472067,
+      "lastModifiedDate": "2023-02-13T08:54:32.067Z",
+      "name": "practicelogo1.jpg",
+      "size": 10228,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1683912529789-22"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/a4eed004-9275-49e6-8810-74278a68c4aa-practicelogo1.jpg",
+        "filename": "radioGraphImgs"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/a4eed004-9275-49e6-8810-74278a68c4aa-practicelogo1.jpg"
+    }
+  ],
+  "impressionType": "Digital Intra-Oral Scans (.STLs)",
+  "imprImages": [
+    {
+      "type": "",
+      "uid": "rc-upload-1683912529789-24",
+      "sizeChecked": true,
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/stls/d378c77d-f85e-445c-be35-2426b5fe3888-stlFiles.stl",
+      "name": "stlFiles.stl"
+    }
+  ],
+  "anonymisedInfo": true,
+  "impressionScannerType": "iTero",
+  "stlUploadType": "Upload file",
+  "submissionPercentage": 100
+}

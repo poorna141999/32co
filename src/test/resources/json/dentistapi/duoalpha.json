@@ -1,0 +1,252 @@
+{
+  "status": "SUBMITTED",
+  "serviceType": "DUO",
+  "activeStep": 0,
+  "planType": "INITIAL",
+  "patientDetail": {
+    "firstName": "AutoAPI",
+    "lastName": "LastName",
+    "dob": "1990-02-07T06:58:45.179Z",
+    "email": "auto32co@gmail.com",
+    "phone": {
+      "ext": "+91",
+      "number": "6782033506"
+    },
+    "profilePic": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/074b9948-5e86-4909-9048-bf9f522ecba2-extra3.png"
+  },
+  "practice": "643a787ce7b09c6938f50e21",
+  "priorExtensiveGeneralDentalTreatment": false,
+  "priorOrthodontics": false,
+  "priorFacialAesthetics": false,
+  "relevantMedicalSocialAndDrugHistory": "Test",
+  "patientOccupation": "Test",
+  "otherModifyingFactors": "Nail",
+  "dietaryFactors": "Tea",
+  "diagnosis": {
+    "arches": "Dual (upper and lower)",
+    "upperDentalCenterLineOfFace": "Displaced to the left",
+    "phasingPreference": "Fitting, IPR, attachments and auxiliaries at step 0 (or fitting) when possible"
+  },
+  "patientMotivationAndConcern": "Test",
+  "statedTimings": "2023-03-06T06:59:19.837Z",
+  "widerTreatmentPlan": [
+    "Restorative work - minimal edge bonding"
+  ],
+  "widerTreatmentPlanDetails": "Test",
+  "patientSuitability": false,
+  "dentalHealthStatus": "Stable",
+  "oralHygiene": "Good",
+  "BPE": "TEST43553",
+  "gingivalBiotype": "Thin",
+  "toothSurfaceLoss": "Mild",
+  "TMJ": true,
+  "paraFuctionalActivity": true,
+  "bruxer": true,
+  "oralHealthPathology": "Test",
+  "radiographQuery": false,
+  "skeletalPatternAntero": "Class II",
+  "skeletalPatternVertical": "Class III",
+  "skeletalPatternTransverse": "Not Sure",
+  "crowdingInUpperArch": "Moderate (5-8mm)",
+  "crowdingInLowerArch": "Severe (>8mm)",
+  "incisorRelationship": [],
+  "overjetIncisorRelationship": "Class II Division I",
+  "overjetInMM": {
+    "lower": 1,
+    "upper": 2
+  },
+  "overjetOverbiteOrAnterior": "Normal",
+  "lowerDentalCenterLineOfFace": "Coincident",
+  "molarRelations": "Class II",
+  "crossBite": [],
+  "dentistPerspectiveOne": "Test",
+  "dentistPerspectiveTwo": "Test",
+  "dentistPerspectiveThree": "Test",
+  "comprehensiveCompromisedOutcomes": "test",
+  "patientAcceptableInterventions": {
+    "IPR": false,
+    "attachments": "Yes - but excluding the aesthetic zone (Upper 3-3)",
+    "auxiliaries": true
+  },
+  "extraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-37",
+      "lastModified": 1678086351412,
+      "lastModifiedDate": "2023-03-06T07:05:51.412Z",
+      "name": "extra1.png",
+      "size": 77511,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-37"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/4fbb49e6-dee4-4aef-b3f9-cfd022f4fa6f-extra1.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/4fbb49e6-dee4-4aef-b3f9-cfd022f4fa6f-extra1.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-38",
+      "lastModified": 1678086363961,
+      "lastModifiedDate": "2023-03-06T07:06:03.961Z",
+      "name": "extra2.png",
+      "size": 79031,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-38"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/00760c4e-a362-41ef-a0a7-90d6250311fa-extra2.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/00760c4e-a362-41ef-a0a7-90d6250311fa-extra2.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-39",
+      "lastModified": 1678086376258,
+      "lastModifiedDate": "2023-03-06T07:06:16.258Z",
+      "name": "extra3.png",
+      "size": 61358,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-39"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/074b9948-5e86-4909-9048-bf9f522ecba2-extra3.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/074b9948-5e86-4909-9048-bf9f522ecba2-extra3.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-40",
+      "lastModified": 1678086388713,
+      "lastModifiedDate": "2023-03-06T07:06:28.713Z",
+      "name": "extra4.png",
+      "size": 66309,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-40"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/6387bb64-2cdd-42a1-9f64-191416a945c4-extra4.png",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/6387bb64-2cdd-42a1-9f64-191416a945c4-extra4.png"
+    }
+  ],
+  "intraOralImages": [
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-42",
+      "lastModified": 1678086253033,
+      "lastModifiedDate": "2023-03-06T07:04:13.033Z",
+      "name": "intra1.png",
+      "size": 112128,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-42"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/77837071-520d-4c09-a897-fbffd12dba31-intra1.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/77837071-520d-4c09-a897-fbffd12dba31-intra1.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-43",
+      "lastModified": 1678086265938,
+      "lastModifiedDate": "2023-03-06T07:04:25.938Z",
+      "name": "intra2.png",
+      "size": 116236,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-43"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/717499b8-a80d-49cf-a5af-332b60c691b5-intra2.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/717499b8-a80d-49cf-a5af-332b60c691b5-intra2.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-44",
+      "lastModified": 1678086279914,
+      "lastModifiedDate": "2023-03-06T07:04:39.914Z",
+      "name": "intra3.png",
+      "size": 113931,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-44"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/7e8256f6-d60f-41ad-947e-1e6063439a4d-intra3.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/7e8256f6-d60f-41ad-947e-1e6063439a4d-intra3.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-45",
+      "lastModified": 1678086291444,
+      "lastModifiedDate": "2023-03-06T07:04:51.444Z",
+      "name": "intra4.png",
+      "size": 143105,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-45"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/9e367064-e284-4979-a8ba-542a69dbd67b-intra4.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/9e367064-e284-4979-a8ba-542a69dbd67b-intra4.png"
+    },
+    {
+      "type": "image/png",
+      "uid": "rc-upload-1678085378692-46",
+      "lastModified": 1678086303183,
+      "lastModifiedDate": "2023-03-06T07:05:03.183Z",
+      "name": "intra5.png",
+      "size": 161186,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678085378692-46"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/30df6255-61c5-4f64-9bf4-708756eeb557-intra5.png",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/30df6255-61c5-4f64-9bf4-708756eeb557-intra5.png"
+    }
+  ],
+  "radioGraphImgs": [],
+  "impressionType": "Digital Intra-Oral Scans (.STLs)",
+  "imprImages": [
+    {
+      "type": "",
+      "uid": "rc-upload-1678085378692-48",
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/stls/67a420ca-c2df-4ad9-84f1-0c4ae70bb1e1-stlFiles.stl",
+      "sizeChecked": true,
+      "name": "stlFiles.stl"
+    }
+  ],
+  "anonymisedInfo": false,
+  "impressionScannerType": "iTero",
+  "stlUploadType": "Upload file",
+  "submissionPercentage": 100
+}

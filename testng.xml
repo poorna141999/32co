@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite configfailurepolicy="continue" name="Suite" parallel="none">
+	<test name="LoginAndSignUp" preserve-order="true">
+	<groups>
+            <run>
+              <include name = "solo"></include>
+               <include name = "duo"></include>
+            </run>
+        </groups>
+		<classes>
+			<class name="dentist.DentistPatientsTestCases" />
+			<class name="dentist.LoginAndSignUpPositiveTestCases" />
+			<class name="dentist.LoginAndSignupNegativeTestCases" />
+			<class name="designer.LoginAndSignUpPositiveTestCases" />
+			<class name="designer.LoginAndSignupNegativeTestCases" />
+			<class name="admin.AdminTestCases"/>
+		</classes>
+	</test>
+</suite>

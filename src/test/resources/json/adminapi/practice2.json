@@ -1,0 +1,20 @@
+{
+  "name": "Testing",
+  "address": {
+    "address1": "Richmond, UK",
+    "postCode": "98564"
+  },
+  "manager": {
+    "name": "5467Test",
+    "email": "prakashshetty1990@gmail.com",
+    "additionalEmail": "prakashshetty1990@gmail.com"
+  },
+  "email": "prakashshetty1990@gmail.com",
+  "logos": [],
+  "phone": {
+    "ext": "+1",
+    "number": "6782033506"
+  },
+  "isScannerAvailable": false,
+  "isOfferClearAligners": false
+}

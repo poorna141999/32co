@@ -1,0 +1,15 @@
+{
+	"patientDetail": {
+		"firstName": "Automation",
+		"lastName": "case",
+		"dob": "07/02/1980",
+		"email": "prakashashetty1990@gmail.com",
+		"phonenumber": "+919875642310"
+	},
+	"practice": "Automation",
+	"dentalAndMedicalFit": "No",
+	"txnObjective": "Levelling",
+	"furtherInstructions": "instructions",
+	"archesUnderConsideration": "Both"
+	
+}

@@ -1,0 +1,63 @@
+{
+  "furtherInstructions": "Testing",
+  "archesUnderConsideration": "Upper",
+  "spacing": {
+    "typeOfSpacing": "Close all spaces"
+  },
+  "crowding": {
+    "resolveUpper": {
+      "expand": "Primarily",
+      "procline": "Primarily",
+      "iprAnterior": "As needed",
+      "iprPosterior": "None"
+    },
+    "resolveLower": {
+      "expand": "None",
+      "procline": "As needed",
+      "iprAnterior": "Primarily",
+      "iprPosterior": "As needed"
+    }
+  },
+  "overBite": {
+    "typeOfOverBite": "Maintain initial overbite (may require IPR)",
+    "additionalDetailsWhenCorrectBite": "Test"
+  },
+  "biteRamps": {},
+  "overjet": "Improve resulting overjet with IPR",
+  "anteriorPosteriorRelationship": {
+    "maintainCurrent": [
+      "Right"
+    ],
+    "correctionToClass": [
+      "Right"
+    ],
+    "improveCanineAndMolarRelationship": [
+      "Left"
+    ],
+    "additionalDetails": "TEst",
+    "toothMovementOptions": [
+      "Posterior IPR"
+    ],
+    "precisionCuts": false
+  },
+  "midline": {
+    "upper": "Correct the midline",
+    "lower": "Maintain initial midline",
+    "additionalDetails": "Test"
+  },
+  "extractions": {},
+  "attachments": {
+    "typeOfAttachments": "Place attachments as needed"
+  },
+  "ipr": {
+    "typeOfIPR": "No"
+  },
+  "phasingPreference": "Staggered approach: Fitting to precede Attachments, IPR and Auxiliaries",
+  "phasingPreferenceDetails": "Test",
+  "toothMovementRestrictions": {
+    "additionalDetails": "Test"
+  },
+  "passiveAligners": "Test",
+  "status": "SUBMITTED",
+  "submission": ""
+}

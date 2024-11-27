@@ -1,0 +1,164 @@
+{
+  "submissionStatus": "SUBMITTED",
+  "status": "SUBMITTED",
+  "serviceType": "SOLO",
+  "planType": "INITIAL",
+  "patientDetail": {
+    "firstName": "test",
+    "lastName": "last",
+    "dob": "2023-02-14T18:30:34.005Z",
+    "email": "prakashashetty1990@gmail.com",
+    "phonenumber": "+917259119944"
+  },
+  "practice": "Test Practice",
+  "dentalAndMedicalFit": "No",
+  "txnObjective":"Levelling",
+  "furtherInstructions": "test",
+  "archesUnderConsideration": "Both",
+  "spacing": {
+    "typeOfSpacing": "Close all spaces",
+    "archSpacing": {
+      "UR5-UR4": 1,
+      "LL5-LL6": 1
+    },
+    "additionalDetailsWhenLeaveSpaces": "test"
+  },
+  "crowding": {
+    "resolveUpper": {
+      "expand": "Primarily",
+      "procline": "As needed",
+      "iprAnterior": "None",
+      "iprPosterior": "Primarily"
+    },
+    "resolveLower": {
+      "expand": "Primarily",
+      "procline": "Primarily",
+      "iprAnterior": "None",
+      "iprPosterior": "None"
+    }
+  },
+  "overBite": {
+    "typeOfOverBite": "Show resulting overbite after alignment",
+    "additionalDetailsWhenCorrectBite": "test"
+  },
+  "biteRamps": {
+    "typeOfBiteRamps": "None",
+    "additionalDetailsWhenPlaceBiteRamps": "test"
+  },
+  "overjet": "Show resulting overjet after alignment",
+  "anteriorPosteriorRelationship": {
+    "correctionToClass": [
+      "Right"
+    ],
+    "improveCanineAndMolarRelationship": [
+      "Left"
+    ],
+    "additionalDetails": "fet",
+    "toothMovementOptions": [
+      "Posterior IPR"
+    ],
+    "precisionCuts": true,
+    "buttonCutOuts": false
+  },
+  "posteriorCrossBite": "Do not correct",
+  "posteriorCrossBiteDetail": "gtger",
+  "midline": {
+    "upper": "Correct the midline",
+    "lower": "MaIntain initial midline",
+    "additionalDetails": "fref"
+  },
+  "extractions": {
+    "archExtractions": [
+      "UR7",
+      "LR7"
+    ],
+    "additionalDetails": "testg"
+  },
+  "attachments": {
+    "typeOfAttachments": "Do not include attachments on any teeth"
+  },
+  "ipr": {
+    "typeOfIPR": "No"
+  },
+  "phasingPreference": "Staggered approach: Fitting to precede Attachments, IPR and Auxiliaries",
+  "phasingPreferenceDetails": "tery",
+  "toothMovementRestrictions": {
+    "archRestrictions": [
+      "UR7",
+      "LR7"
+    ],
+    "additionalDetails": "dwew"
+  },
+  "passiveAligners": "cwefregregr4g",
+  "extraOralImages": [
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/81b2d5c2-d76b-41c4-a9ba-e08a83606b4a-images.jpg",
+      "type": "",
+      "name": "images.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/4287544e-f3fb-4359-bb60-5189b0c14285-test12.jpg",
+      "type": "",
+      "name": "test12.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/372d8ef1-2c9f-4068-9c78-652596ebd833-test13.jpg",
+      "type": "",
+      "name": "test13.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/727384d8-3be6-439c-9162-5aeb93e4482b-test14.jpg",
+      "type": "",
+      "name": "test14.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/1091bd33-2911-416b-8b46-f65a6abd0283-test89.jpg",
+      "type": "",
+      "name": "test89.jpg"
+    }
+  ],
+  "intraOralImages": [
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/4acd5c42-3d0d-4ba1-9ade-7165e60eb7c4-images.jpg",
+      "type": "",
+      "name": "images.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/d19b8dbe-3e19-4e16-a9f1-cfec621b82d4-test12.jpg",
+      "type": "",
+      "name": "test12.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/f6e3815f-9ee2-4de2-9d3e-1a76cfecce37-test13.jpg",
+      "type": "",
+      "name": "test13.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/f230cfef-4eb1-4569-a12c-b1107b8f03a2-test14.jpg",
+      "type": "",
+      "name": "test14.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/d18942d7-2162-4591-b555-524b3034c22d-test89.jpg",
+      "type": "",
+      "name": "test89.jpg"
+    }
+  ],
+  "radioGraphImgs": [
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/c807386b-9e94-47eb-836f-487516414809-test13.jpg",
+      "type": "",
+      "name": "test13.jpg"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/de655a52-81cf-4120-95e8-a57cf67b1c8e-test14.jpg",
+      "type": "",
+      "name": "test14.jpg"
+    }
+  ],
+  "impressionType": "Silicone Impressions (via Post)",
+  "imprImages": [],
+  "anonymisedInfo": true,
+  "postageDate": "2023-02-14T18:34:08.347Z",
+  "submissionPercentage": 100
+}

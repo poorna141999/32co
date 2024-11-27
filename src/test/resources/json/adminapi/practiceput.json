@@ -1,0 +1,36 @@
+{
+  "name": "API ffsjdfhsds",
+  "address": {
+    "address1": "Richmond Road, Shanthala Nagar, Langford Gardens, Bangalore, Karnataka, India",
+    "postCode": "560054"
+  },
+  "manager": {
+    "name": "My Clinic",
+    "email": "apiupdate@gmail.com",
+    "additionalEmail": "apiupdate@gmail.com"
+  },
+  "logos": [
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/practice/d1746310-5005-473d-a420-204cd795de1a-practicelogo1.jpg",
+      "name": "logo1",
+      "type": "image/jpeg",
+      "uploadedAt": "2023-03-14T16:29:46.511Z"
+    },
+    {
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/practice/d1746310-5005-473d-a420-204cd795de1a-practicelogo1.jpg",
+      "name": "logo1",
+      "type": "image/jpeg",
+      "uploadedAt": "2023-03-14T16:29:46.511Z"
+    }
+  ],
+  "phone": {
+    "ext": "+91",
+    "number": "9765432145"
+  },
+  "isScannerAvailable": true,
+  "scanners": [
+    "63c788df08b54cfbcb731564",
+    "63c8f8d27ef931df727c3759"
+  ],
+  "taxId": "PTI09"
+}

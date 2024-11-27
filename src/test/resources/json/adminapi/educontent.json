@@ -1,0 +1,47 @@
+{
+  "title": "API 98756",
+  "description": "Created by API",
+  "coverTitle": "Education Content",
+  "coverSubTitle": "Sub Title",
+  "coverTextColor": "BLACK",
+  "tags": [
+    "dental",
+    "dentist"
+  ],
+  "contentType": "CASE_STUDY",
+  "difficultyLevel": "GENERAL",
+  "estimatedReadingTime": 10,
+  "contentUrl": "www.google.com",
+  "cpdPoint": 5,
+  "coverImage": {
+    "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/edu-content/a2bcffed-e269-40fb-96a1-491cf2fc90bd-dp.jpg",
+    "type": "image/jpeg"
+  },
+  "questions": [
+    {
+      "title": "First Question",
+      "options": [
+        {
+          "title": "1",
+          "order": 1,
+          "correct": false
+        },
+        {
+          "title": "2",
+          "order": 2,
+          "correct": true
+        },
+        {
+          "title": "4",
+          "order": 3,
+          "correct": false
+        },
+        {
+          "title": "6",
+          "order": 4,
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

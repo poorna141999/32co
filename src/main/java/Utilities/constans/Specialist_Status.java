@@ -1,0 +1,13 @@
+package Utilities.constans;
+
+public enum Specialist_Status {
+	SUBMIT_INSTRUCTION,
+	AWAITING_DESIGN,
+	REVIEW_DESIGN,
+	APPROVED,
+	COMPLETED,
+	NOT_SUITABLE,
+	ON_HOLD,
+	ARCHIVED,
+	EXPIRED
+}

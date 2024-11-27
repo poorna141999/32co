@@ -1,0 +1,305 @@
+{
+  "status": "DRAFT",
+  "serviceType": "SOLO",
+  "planType": "INITIAL",
+  "patientDetail": {
+    "firstName": "Automation543",
+    "lastName": "Testing543",
+    "dob": "2010-02-03T05:23:20.141Z",
+    "email": "auto32co@gmail.com",
+    "phone": {
+      "ext": "+1",
+      "number": "6782033506"
+    },
+    "profilePic": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/74bde782-1c30-4f27-aca7-fd3aef489174-dp.jpg"
+  },
+  "practice": "643a787ce7b09c6938f50e21",
+  "dentalAndMedicalFit": true,
+  "txnObjective": [
+    "Maxillary arch expansion"
+  ],
+  "furtherInstructions": "Testing",
+  "archesUnderConsideration": "Both",
+  "spacing": {
+    "typeOfSpacing": "Close all spaces"
+  },
+  "crowding": {
+    "resolveUpper": {
+      "expand": "Primarily",
+      "procline": "As needed",
+      "iprAnterior": "As needed",
+      "iprPosterior": "Primarily"
+    },
+    "resolveLower": {
+      "expand": "Primarily",
+      "procline": "As needed",
+      "iprAnterior": "None",
+      "iprPosterior": "Primarily"
+    }
+  },
+  "overBite": {
+    "typeOfOverBite": "Show resulting overbite after alignment",
+    "additionalDetailsWhenCorrectBite": "Test"
+  },
+  "biteRamps": {
+    "typeOfBiteRamps": "Automatically place precision bite ramps if lower incisor Intrusion is greater than 1.5mm",
+    "additionalDetailsWhenPlaceBiteRamps": "Test"
+  },
+  "overjet": "MaIntain initial overjet (may require IPR)",
+  "anteriorPosteriorRelationship": {
+    "maintainCurrent": [
+      "Right"
+    ],
+    "correctionToClass": [
+      "Left"
+    ],
+    "improveCanineAndMolarRelationship": [
+      "Right"
+    ],
+    "additionalDetails": "Test",
+    "toothMovementOptions": [
+      "Class II/III Correction Simulation (Elastics required)"
+    ],
+    "precisionCuts": true,
+    "buttonCutOuts": false
+  },
+  "posteriorCrossBite": "Correct",
+  "posteriorCrossBiteDetail": "Test",
+  "midline": {
+    "upper": "Correct the midline",
+    "lower": "MaIntain initial midline",
+    "additionalDetails": "Test"
+  },
+  "extractions": {
+    "archExtractions": [
+      "1.6",
+      "4.5"
+    ],
+    "additionalDetails": "Test"
+  },
+  "attachments": {
+    "typeOfAttachments": "Do not include attachments on any teeth"
+  },
+  "ipr": {
+    "typeOfIPR": "No"
+  },
+  "phasingPreference": "Staggered approach: Fitting to precede Attachments, IPR and Auxiliaries",
+  "phasingPreferenceDetails": "Test",
+  "toothMovementRestrictions": {
+    "archRestrictions": [
+      "1.7",
+      "4.5"
+    ],
+    "additionalDetails": "Test"
+  },
+  "passiveAligners": "Test",
+  "extraOralImages": [
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-9",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-9"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/74bde782-1c30-4f27-aca7-fd3aef489174-dp.jpg",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/74bde782-1c30-4f27-aca7-fd3aef489174-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-10",
+      "lastModified": 1676278472067,
+      "lastModifiedDate": "2023-02-13T08:54:32.067Z",
+      "name": "practicelogo1.jpg",
+      "size": 10228,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-10"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/a6d59734-14fd-404b-9aed-5e3d1c041e01-practicelogo1.jpg",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/a6d59734-14fd-404b-9aed-5e3d1c041e01-practicelogo1.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-11",
+      "lastModified": 1676278480797,
+      "lastModifiedDate": "2023-02-13T08:54:40.797Z",
+      "name": "practicelogo2.jpg",
+      "size": 19684,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-11"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/81d2deb3-08f2-4c9d-a0cb-cad9f045a589-practicelogo2.jpg",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/81d2deb3-08f2-4c9d-a0cb-cad9f045a589-practicelogo2.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-13",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-13"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/030ff81d-1d7d-4a53-a939-668abe4ff950-dp.jpg",
+        "filename": "extraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/extraOralImages/030ff81d-1d7d-4a53-a939-668abe4ff950-dp.jpg"
+    }
+  ],
+  "intraOralImages": [
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-15",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-15"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/87ab2886-bd56-46ad-834c-4049db1665e9-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/87ab2886-bd56-46ad-834c-4049db1665e9-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-17",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-17"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/02f48451-33ef-493b-818d-77c9d3e9f8f7-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/02f48451-33ef-493b-818d-77c9d3e9f8f7-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-19",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-19"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/85ff34e6-51d7-4e6e-96db-ee9529865cf7-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/85ff34e6-51d7-4e6e-96db-ee9529865cf7-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-21",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-21"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/81ee9e03-2658-470f-b2f4-4524eb5ecb54-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/81ee9e03-2658-470f-b2f4-4524eb5ecb54-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-23",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-23"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/53e317b7-0604-411e-827d-a8267dcde9e1-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/53e317b7-0604-411e-827d-a8267dcde9e1-dp.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-25",
+      "lastModified": 1674585755856,
+      "lastModifiedDate": "2023-01-24T18:42:35.856Z",
+      "name": "dp.jpg",
+      "size": 4581,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-25"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/3d71fb9e-c89d-467f-ab5f-44a1b75e7a6f-dp.jpg",
+        "filename": "intraOralImages"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/intraOralImages/3d71fb9e-c89d-467f-ab5f-44a1b75e7a6f-dp.jpg"
+    }
+  ],
+  "radioGraphImgs": [
+    {
+      "type": "image/jpeg",
+      "uid": "rc-upload-1678079877259-27",
+      "lastModified": 1676278480797,
+      "lastModifiedDate": "2023-02-13T08:54:40.797Z",
+      "name": "practicelogo2.jpg",
+      "size": 19684,
+      "percent": 100,
+      "originFileObj": {
+        "uid": "rc-upload-1678079877259-27"
+      },
+      "status": "done",
+      "response": {
+        "imageUrl": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/e504e0ec-5e62-481b-84a6-652c805705a9-practicelogo2.jpg",
+        "filename": "radioGraphImgs"
+      },
+      "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/radioGraphImgs/e504e0ec-5e62-481b-84a6-652c805705a9-practicelogo2.jpg"
+    }
+  ],
+  "impressionType": "Silicone Impressions (via Post)",
+  "imprImages": [],
+  "anonymisedInfo": false,
+  "postageDate": "2023-03-06T05:25:31.589Z",
+  "submissionPercentage": 100
+}

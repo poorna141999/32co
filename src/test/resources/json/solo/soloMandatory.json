@@ -1,0 +1,36 @@
+{
+	"patientDetail": {
+		"firstName": "Automation",
+		"lastName": "case",
+		"dob": "07/02/1980",
+		"email": "prakashashetty1990@gmail.com",
+		"phonenumber": "+919875642310"
+	},
+	"practice": "Automation",
+	"dentalAndMedicalFit": "No",
+	"txnObjective": "Levelling",
+	"furtherInstructions": "instructions",
+	"archesUnderConsideration": "Both",
+	"biteRamps": {
+		"typeOfBiteRamps": "Place bite ramps on the following specific teeth",
+		"additionalDetailsWhenPlaceBiteRamps": ""
+	},
+	"anteriorPosteriorRelationship": {
+		"correctionToClass": [
+			"Right"
+		],
+		"maintainCurrent": [
+			"Left"
+		],
+		"improveCanineAndMolarRelationship": [
+			"Left"
+		],
+		"toothMovementOptions": [
+			"Posterior IPR"
+		],
+		"precisionCuts": "Yes",
+		"buttonCutOuts": "No"
+	},
+	"posteriorCrossBite": "Correct",	
+	"impressionType": "Silicone Impressions (via Post)"
+}

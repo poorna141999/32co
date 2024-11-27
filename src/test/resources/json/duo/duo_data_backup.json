@@ -1,0 +1,88 @@
+{
+	"patientDetail": {
+		"firstName": "test",
+		"lastName": "test",
+		"dob": "2023-02-12T12:51:10.827Z",
+		"email": "auto32co@gmail.com",
+		"phone": "+919876541230"
+	},
+	"practice": "Automation",
+	"priorExtensiveGeneralDentalTreatment": "No",
+	"priorOrthodontics": "No",
+	"priorFacialAesthetics": "Yes",
+	"relevantMedicalSocialAndDrugHistory": "test",
+	"patientOccupation": "test",
+	"otherModifyingFactors": "test",
+	"dietaryFactors": "testing",
+	"priorFacialAestheticsDetails": "test",
+	"validateDownload" : "No",
+	"diagnosis": {
+		"arches": "Dual (upper and lower)",
+		"upperDentalCenterLineOfFace": "63e4c8e72ae75981ad054614",
+		"phasingPreference": "No preference"
+	},
+	"patientMotivationAndConcern": "test",
+	"statedTimings": "15/02/2023",
+	"statedTimingsNotes": "details",
+	"widerTreatmentPlan": "Whitening",
+	"widerTreatmentPlanDetails": "test",
+	"patientSuitability": "Yes",
+	"dentalHealthStatus": "Stable",
+	"oralHygiene": "Poor",
+	"BPE": "BPEtestu",
+	"gingivalBiotype": "Thin",
+	"toothSurfaceLoss": "Mild",
+	"TMJ": "No",
+	"paraFuctionalActivity": "Yes",
+	"bruxer": "Yes",
+	"oralHealthPathology": "testi",
+	"radiographQuery": "No",
+	"skeletalPatternAntero": "Not Sure",
+	"skeletalPatternVertical": "Increased",
+	"skeletalPatternTransverse": "No",
+	"crowdingInUpperArch": "No Crowding - Spacing Present",
+	"crowdingInLowerArch": "Moderate (5-8mm)",
+	"incisorRelationship": [
+		"1.6",
+		"4.1"
+	],
+	"overjetIncisorRelationship": "Class II: Division 1",
+	"overjetInMM": {
+		"lower": 1,
+		"upper": -1
+	},
+	"overjetOverbiteOrAnterior": "Normal",
+	"diagnosis_upperDentalCenterLineOfFace": "Displaced to the left",
+	"lowerDentalCenterLineOfFace": "Coincident",
+	"molarRelations": "Class II",
+	"crossBite":"UR8,LR7",
+	"dentistPerspectiveOne": "test",
+	"dentistPerspectiveTwo": "tes",
+	"dentistPerspectiveThree": "tes",
+	"comprehensiveCompromisedOutcomes": "test",
+	"patientAcceptableInterventions": {
+		"IPR": "No",
+		"attachments": "Yes - on any teeth",
+		"auxiliaries": "No"
+	},
+	"phasingPreference": "No preference",
+	"extraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"intraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"radioGraphImgs": [
+		".\\files\\dp.jpg"
+	],
+	"impressionType": "Digital Intra-Oral Scans (.STLs)",
+	"ImpressionScannerType": "Primescan",
+	"imprImages":".\\files\\stlFiles.stl"
+}

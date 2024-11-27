@@ -1,0 +1,113 @@
+{
+	"patientDetail": {
+		"firstName": "Automation",
+		"lastName": "case",
+		"dob": "07/02/1980",
+		"email": "prakashashetty1990@gmail.com",
+		"phonenumber": "+919875642310"
+	},
+	"practice": "Automation",
+	"dentalAndMedicalFit": "No",
+	"txnObjective": "Levelling",
+	"furtherInstructions": "instructions",
+	"archesUnderConsideration": "Both",
+	"spacing": {
+		"typeOfSpacing": "Close all spaces",
+		"archSpacing": {
+			"UR5-UR4": 1,
+			"LL5-LL6": 1
+		},
+		"additionalDetailsWhenLeaveSpaces": "test"
+	},
+	"crowding": {
+		"resolveUpper": {
+			"expand": "Primarily",
+			"procline": "As needed",
+			"iprAnterior": "None",
+			"iprPosterior": "Primarily"
+		},
+		"resolveLower": {
+			"expand": "Primarily",
+			"procline": "Primarily",
+			"iprAnterior": "None",
+			"iprPosterior": "None"
+		}
+	},
+	"overBite": {
+		"typeOfOverBite": "Show resulting overbite after alignment",
+		"additionalDetailsWhenCorrectBite": "test"
+	},
+	"biteRamps": {
+		"typeOfBiteRamps": "None",
+		"additionalDetailsWhenPlaceBiteRamps": "test"
+	},
+	"overjet": "Show resulting overjet after alignment",
+	"anteriorPosteriorRelationship": {
+		"correctionToClass": [
+			"Right"
+		],
+		"maintainCurrent": [
+			"Left"
+		],
+		"improveCanineAndMolarRelationship": [
+			"Left"
+		],
+		"additionalDetails": "fet",
+		"toothMovementOptions": [
+			"Posterior IPR"
+		],
+		"precisionCuts": "Yes",
+		"buttonCutOuts": "No"
+	},
+	"posteriorCrossBite": "Do not correct",
+	"posteriorCrossBiteDetail": "gtger",
+	"midline": {
+		"upper": "Correct the midline",
+		"lower": "Maintain initial midline",
+		"additionalDetails": "fref"
+	},
+	"extractions": {
+		"archExtractions": [
+			"UR7",
+			"LR7"
+		],
+		"additionalDetails": "testg"
+	},
+	"attachments": {
+		"typeOfAttachments": "Do not include attachments on any teeth",
+		"additionalDetails": "Testing"
+	},
+	"ipr": {
+		"typeOfIPR": "No IPR",
+		"additionalDetails": "Testing"
+	},
+	"phasingPreference": "Staggered approach: Fitting to precede Attachments, IPR and Auxiliaries",
+	"phasingPreferenceDetails": "tery",
+	"toothMovementRestrictions": {
+		"archRestrictions": [
+			"UR7",
+			"LR7"
+		],
+		"additionalDetails": "dwew"
+	},
+	"passiveAligners": "cwefregregr4g",
+	"extraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"intraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"radioGraphImgs": [
+		".\\files\\dp.jpg"
+	],
+	"impressionType": "Digital Intra-Oral Scans (.STLs)",
+	"ImpressionScannerType": "Primescan",
+	"imprImages":".\\files\\stlFiles.stl"
+}

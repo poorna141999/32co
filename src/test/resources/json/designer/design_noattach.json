@@ -1,0 +1,33 @@
+{
+	"arches": "Dual Arch - upper / lower",
+	"totalSteps": 14,
+	"havingAttachment": "No",
+	"attachmentStages": [
+		"Stage 3",
+		"Stage 1"
+	],
+	"upperStageNumber": 14,
+	"lowerStageNumber": 2,
+	"havingIpr": "Yes",
+	"iprStages": [
+		"Stage 0",
+		"Stage 2"
+	],
+	"havingElastic": "Yes",
+	"elastics": [
+		"Class III elastics",
+		"Finishing elastics"
+	],
+	"toothAnimationUrl": "https://webview.32-stories.com/?mlink=https://32s-prod-ftp.s3.eu-west-2.amazonaws.com/data/Client4070/Yi%20Lin%20Tan_18~612~621/221E675B4F8D4618BC6CA9BDD1523389.iiwgl&fg=ccc&bg=000&p=SEBWHS",
+	"auxiliaryDetail": "test",
+	"iprcsv": [
+		".\\files\\csv\\data2.csv"
+	],
+	"toothMovementTablecsv": [
+		".\\files\\csv\\data1.csv"
+	],
+	"additionalAttachments": [
+		".\\files\\dp.jpg"
+	],
+	"comment": "test"
+}

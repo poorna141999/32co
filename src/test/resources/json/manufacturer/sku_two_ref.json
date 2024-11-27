@@ -1,0 +1,42 @@
+{
+	"name": "Auto Two Refinement",
+	"materialType": "Essix ACE",
+	"finishOptions": [
+		"Scalloped",
+		"Straight"
+	],
+	"country": "IN",
+	"planPrice": {
+		"pricePerAligner": 50,
+		"packagingFee": 4,
+		"shippingFee": 6,
+		"template": 10,
+		"passiveAligner": 15,
+		"retainer": 20,
+		"fee32Co": 10,
+		"maxDeliveryDays": 3
+	},
+	"refinementPrice": {
+		"pricePerAligner": 40,
+		"packagingFee": 5,
+		"shippingFee": 4,
+		"template": 7,
+		"passiveAligner": 12,
+		"retainer": 21,
+		"fee32Co": 10,
+		"maxDeliveryDays": 4
+	},
+	"description": "Auto Two Refinement Description",
+	"default": false,
+	"refinementsIncluded": true,
+	"numberOfRefinementsIncluded": 2,
+	"refinementDiscountFactor": [
+		{
+			"value": 50
+		},
+		{
+			"value": 30
+		}
+	],
+	"manufacturer": "64591a657f8f83181f2b6329"
+}

@@ -1,0 +1,35 @@
+{
+	"name": "Auto No Refinement",
+	"materialType": "Taglus",
+	"finishOptions": [
+		"Scalloped",
+		"Straight"
+	],
+	"country": "IN",
+	"planPrice": {
+		"pricePerAligner": 35,
+		"packagingFee": 3,
+		"shippingFee": 2,
+		"template": 5,
+		"passiveAligner": 15,
+		"retainer": 16,
+		"fee32Co": 3,
+		"maxDeliveryDays": 4
+	},
+	"refinementPrice": {
+		"pricePerAligner": 25,
+		"packagingFee": 3,
+		"shippingFee": 2,
+		"template": 5,
+		"passiveAligner": 10,
+		"retainer": 14,
+		"fee32Co": 3,
+		"maxDeliveryDays": 4
+	},
+	"description": "Auto No Refinement Description",
+	"default": false,
+	"refinementsIncluded": false,
+	"numberOfRefinementsIncluded": 0,
+	"refinementDiscountFactor": [],
+	"manufacturer": "64591a657f8f83181f2b6329"
+}

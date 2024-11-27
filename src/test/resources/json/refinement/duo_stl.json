@@ -1,0 +1,30 @@
+{
+
+	"ArchesInTreatment": "Dual Arch - upper / lower",
+	"RefinementInfo_stepReached": "Stage 0,Stage 2",
+	"RefinementInfo_stepReachedComments": "Auto Testing",
+	"RefinementInfo_treatmentBackground": "Auto Testing BackGrounds",
+	"RefinementInfo_treatmentPlanAdditionalComments": "Additionals Comments",		
+	"extraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"intraOralImages": [
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg",
+		".\\files\\dp.jpg"
+	],
+	"radioGraphImgs": [
+		".\\files\\dp.jpg"
+	],
+	"impressionType": "Digital Intra-Oral Scans (.STLs)",
+	"ImpressionScannerType": "Primescan",
+	"imprImages":".\\files\\stlFiles.stl"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "API Testing",
+  "country": "640716a88b7934dd85b69b5f",
+  "planPrice": {
+    "pricePerAligner": 12,
+    "packagingFee": 1200,
+    "shippingFee": 250,
+    "template": 2,
+    "passiveAligner": 2,
+    "retainer": 2,
+    "fee32Co": 2,
+    "maxDeliveryTime": 3
+  },
+  "refinementPrice": {
+    "pricePerAligner": 2,
+    "packagingFee": 2,
+    "shippingFee": 2,
+    "template": 3,
+    "passiveAligner": 2,
+    "retainer": 2,
+    "fee32Co": 2,
+    "maxDeliveryTime": 2
+  },
+  "description": "API Testing Description",
+  "materialType": "Taglus",
+  "finishOptions": [
+    "Scalloped"
+  ],
+  "status": "LIVE",
+  "default": true,
+  "refinementsIncluded": true,
+  "numberOfRefinementsIncluded": 1,
+  "refinementDiscountFactor": [
+    {
+      "value": 0
+    }
+  ],
+  "manufacturer": "64060b6305da2c148b05d57e",
+  "image": {
+    "name": "extra1.png",
+    "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/SKU/0595d268-7aef-4041-b6c9-3178e8ea5d66-extra1.png",
+    "type": "image/png"
+  },
+  "logo": {
+    "name": "practicelogo1.jpg",
+    "url": "https://32co-files-upload-development.s3.eu-west-2.amazonaws.com/SKU/2297990a-3df5-460c-9338-f3e2dc38322e-practicelogo1.jpg",
+    "type": "image/jpeg"
+  }
+}
